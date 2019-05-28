@@ -45,7 +45,7 @@
  ####### PLAY BUTTON................START / SHUFFLE / PAUSE #######
  ####### M BUTTON.................................OPEN MENU #######
  #######                                                    #######
- ####### # # # # # # # # ~~CUSTOMIZABLES~ # # # # # # # # # #######
+ ####### # # # # # # # #  ~CUSTOMIZABLES~ # # # # # # # # # #######
  #######                                                    #######
  ####### RAND MODE ..... 0 > STEPS, 1 RANDOM STEPS, 2 NOISE #######
  ####### BINARY POWER ............. ARRAY LENGTH = 2 ^ B.P. #######
