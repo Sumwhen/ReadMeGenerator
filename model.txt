@@ -1,0 +1,15 @@
+layout model:
+file
+    header
+        author
+        year
+        copyright
+    content
+        2 column tables
+        captions
+        subcaptions
+end
+
+language model:
+
+
