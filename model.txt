@@ -11,3 +11,13 @@ file
 end
 
 language model:
+commands: \command
+command namespaces:
+    header
+        author
+        coauthor
+        copyright
+        date
+        license
+        meta
+    content
